@@ -2,3 +2,4 @@ website/node_modules
 client/personal_library/target
 website/package-lock.json
 client/personal_library/Cargo.lock
+client/personal_library/log.json
