@@ -1,0 +1,17 @@
+{
+  "name": "personal_library",
+  "version": "1.0.0",
+  "description": "Just a simple website to read and store books. Just like a library",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node server.js",
+    "serve": "nodemon server.js"
+  },
+  "author": "Rajkaran Singh Grewal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.4"
+  }
+}
